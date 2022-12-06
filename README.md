@@ -4,6 +4,6 @@
 Themes: Christmas, finance, data, artwork
 
 Resources:
-- Automate the Boring Stuff Book
-- Python Basics 1 
-- Code First Girls: Introduction to Python & Apps material
+- Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart
+- Cisco Networking Academy Python Basics 1 course 
+- Code First Girls: Introduction to Python & Apps course
