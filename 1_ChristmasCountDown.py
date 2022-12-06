@@ -3,8 +3,6 @@
 #To-do list:
 #(1) Annotate code :)
 #(2) Christmas countdown :)
-#(3) Create an advent calendar of financial knowledge you've learnt this month :
-#(4) random number generator to select a day and recap knowledge :
 
 import datetime
 
