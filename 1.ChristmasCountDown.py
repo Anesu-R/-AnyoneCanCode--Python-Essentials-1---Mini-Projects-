@@ -1,4 +1,4 @@
-#***Christmas Countdown X Financial Advent Calendar***
+#***Christmas Countdown***
 
 #To-do list:
 #(1) Annotate code :)
