@@ -62,4 +62,4 @@ if SongChoice == 5:
     lyrics.close()
 
 else:
-    print("Oops, looks like you didn't pick on of the options!")
+    print("Oops, looks like you didn't pick one of the options above!")
