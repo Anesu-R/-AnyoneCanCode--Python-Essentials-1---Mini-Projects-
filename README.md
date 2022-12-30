@@ -1,7 +1,7 @@
 # #AnyoneCanCode: Python Essentials 1 - Mini Projects - Christmas Edition
- In preparation for the PCEP – Certified Entry-Level Python Programmer certification, this repository holds a collection of projects to put into practice the basics of Python programming.
+Practical coding mini projects themed around Christmas 2022 to put into practice the basics of Python.
 
-Themes: Christmas, data, art, Python Basics
+Themes: Christmas, data, art, Python basics
 
 Resources:
 - Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart
